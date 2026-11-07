@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/plotly/dash-stripe-tutorial/commit/172277bbd6095fe2057f62eef40b4d139887bb0b",
       "git:hexsha": "172277bbd6095fe2057f62eef40b4d139887bb0b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T08:02:08.233737+00:00"
     }
   ]
 }
