@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/plotly/dash-stripe-tutorial/commit/172277bbd6095fe2057f62eef40b4d139887bb0b",
+  "@type": "git:Commit",
+  "git:hexsha": "172277bbd6095fe2057f62eef40b4d139887bb0b",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/plotly/dash-stripe-tutorial"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/172277bbd6095fe2057f62eef40b4d139887bb0b.nq.gz",
+      "repolex:graphFileSize": 1671
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 848
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 411
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-11-07T08:00:01.398325+00:00",
+  "repolex:parserVersion": "0.1.10"
+}

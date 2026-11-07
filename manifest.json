@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "plotly",
+  "repo": "dash-stripe-tutorial",
+  "versions": [
+    {
+      "commit": "172277bbd6095fe2057f62eef40b4d139887bb0b",
+      "parsed_at": "2026-11-07T08:00:01.398325+00:00",
+      "filetree": "filetree/172277bbd6095fe2057f62eef40b4d139887bb0b.nq.gz",
+      "blobs": [
+        "blob/b001eb8b53994c03b825bbb760bd5ae70c32107f.nq.gz",
+        "blob/4e2ff3b9e7f26a1bef412dba5b6d3cee8b52325b.nq.gz",
+        "blob/b15e2344986c44f8a6b75da3d34b8124e6950798.nq.gz",
+        "blob/1005cb305aabfaea98277e107a92a67181d179fb.nq.gz",
+        "blob/83171935e52e623ad398518e2e3a8e9a42fee545.nq.gz",
+        "blob/d75af7b066c635c99e150f39fc5b14ecfacd8551.nq.gz",
+        "blob/153f6607ae2e740ca5af63d11b29de2ffbf8f70e.nq.gz",
+        "blob/b4fd97d6d0805c1bc54f566b4d6c4e13ab5e09a0.nq.gz",
+        "blob/c9a500347a1ffe677bbf4d9f90d10aef2f36900d.nq.gz",
+        "blob/c6779337178ccad80cc6e05b437876bb87e73c68.nq.gz",
+        "blob/346fb8b951fb7b10f64b825201a8d8ef981562dd.nq.gz",
+        "blob/b46016672d7df4ca28d97c53e21f4df5bb56851d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
