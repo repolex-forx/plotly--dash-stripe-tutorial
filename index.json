@@ -1,0 +1,11 @@
+{
+  "org": "plotly",
+  "repo": "dash-stripe-tutorial",
+  "versions": [
+    {
+      "commit": "172277bbd6095fe2057f62eef40b4d139887bb0b",
+      "tag": "",
+      "parsed_at": "2026-11-07T08:02:08.234200+00:00"
+    }
+  ]
+}
